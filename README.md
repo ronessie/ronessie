@@ -12,7 +12,7 @@ I am a beginner developer from Minsk <img src="https://media.giphy.com/media/WUl
 
 - :zap: In my free time, I like to do my own projects and learn something new and interesting.
 
-- :mailbox:How to reach me: [![Discord Badge](https://img.shields.io/badge/-vorgnomov-purple?style=flat&logo=Discord&logoColor=white)](https://discord.com/channels/@vorgnomov)
+- :mailbox:How to reach me: [![Discord Badge](https://img.shields.io/badge/-vorgnomov-purple?style=flat&logo=Discord&logoColor=white)](https://discordapp.com/users/959910657669611520)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
