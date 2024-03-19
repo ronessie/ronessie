@@ -12,7 +12,7 @@ I am a beginner developer from Minsk <img src="https://media.giphy.com/media/WUl
 
 -  In my free time, I like to do my own projects and learn something new and interesting.
 
-- How to reach me: [![Discord Badge](https://img.shields.io/badge/-ronessi-purple?style=flat&logo=Discord&logoColor=white)](https://discordapp.com/users/959910657669611520)
+- How to reach me: [![Discord Badge](https://img.shields.io/badge/-ronessie-purple?style=flat&logo=Discord&logoColor=white)](https://discordapp.com/users/959910657669611520)
 
 ### Languages and Tools :
 <div>
