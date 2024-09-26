@@ -4,7 +4,7 @@ My name is Veronika and I am a part-time student at Belarusian State University 
 
 ## My Skills
 - **Programming Languages:** TypeScript, JavaScript, C#.
-- **Technologies and Tools:** Next.js, React, MongoDB, .NET, SQL, Rest API
+- **Technologies and Tools:** Next.js, React, .NET, MongoDB, SQL, Rest API
 - **Projects:** <a href="https://github.com/ronessie/SmartBudget">SmartBudget</a>, <a href="https://github.com/ronessie/ToDoList">ToDoList in Telegram</a>, <a href="https://github.com/ronessie/WeatherBot">WeatherBot in Telegram</a>
 
 ## Contacts
