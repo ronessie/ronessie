@@ -9,7 +9,7 @@ My name is Veronika and I am a part-time student at Belarusian State University 
 
 ## Contacts
 - 📧 Email: veronikasakolinskaya@gmail.com
-- 💼 LinkedIn: <a href="https://www.linkedin.com/in/veronika-sakolinskaya/">Sakolinskaya Veronika</a>
+- 💼 LinkedIn: <a href="https://www.linkedin.com/in/veronika-sakolinskaya/">Ratkevich Veronika</a>
 - 🌐 Telegram: <a href="https://t.me/ronessie">@ronessie</a>
 
 Thank you for checking out my profile! 😊
